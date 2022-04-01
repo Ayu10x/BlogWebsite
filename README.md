@@ -4,7 +4,7 @@ This was made using as a part of Web Dev Bootcamp from Udemy.
 
 ## Deployed App
 
-Click the link to visit the [App](https://young-scrubland-37535.herokuapp.com/)
+Click the link to visit the [App](https://serene-dawn-76759.herokuapp.com/)
 
 ## Instructions
 To build the app
